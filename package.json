@@ -5,7 +5,7 @@
   "dependencies": {
     "@emoji-mart/data": "^1.1.2",
     "@emoji-mart/react": "^1.1.1",
-    "@googleapis/youtube": "^8.0.2",
+    "@googleapis/youtube": "^9.0.0",
     "@stripe/stripe-js": "^1.48.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
