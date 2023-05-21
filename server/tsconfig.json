@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["dom", "es2021"],
+    "allowJs": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "outDir": "../buildServer"
+  },
+  "include": [".", "../global.d.ts"]
+}
